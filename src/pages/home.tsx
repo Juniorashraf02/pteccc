@@ -6,7 +6,7 @@ import Info from "@/components/Info/Info";
 // import Link from "next/link";
 
 // third party imports
-import Carousel from "../components/Home/Carousel";
+// import Carousel from "../components/Home/Carousel";
 // import Image from "next/image";
 import { Gallary } from "@/components/Home/Gallary/Gallary";
 
@@ -24,8 +24,8 @@ const home = () => {
       </div>
       <Gallary/>
     
-      {/* <Info />
-      <Carousel 
+      <Info />
+      {/* <Carousel 
       onSlideClick={handleSlideClick}
       imageOne="/photos/home/carousel/Asif-Sir.jpg"
       imageTwo="/photos/home/carousel/Asvisor.jpg"
