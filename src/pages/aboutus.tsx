@@ -131,7 +131,7 @@ const aboutus = () => {
             Career Fair
           </h1>
           <p className="text-gray-600 font-thin py-5 tracking-wide">
-            The PTEC Career Club's signature event is the PTEC Career Fair/Job
+            The PTEC Career Club&apos;s signature event is the PTEC Career Fair/Job
             Fair. Since 2019, the PTEC Career Club has been organizing career
             fairs. The purpose of the Career Fair is to connect with HR
             professionals, engage with corporate entities, and expand job
