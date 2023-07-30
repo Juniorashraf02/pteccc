@@ -8,7 +8,7 @@
 
 export const Gallary = () => {
     return (
-        <div className="bg-gray-200 mx-auto px-5 py-2 lg:px-16 lg:py-12">
+        <div className="bg-gray-200 mx-auto px-5 md:py-2 py-8 lg:px-16 lg:py-12">
             <div className="-m-1 flex flex-wrap md:-m-2">
                 <div className="flex w-1/2 flex-wrap">
                     <div className="w-1/2 p-1 md:p-2 hover:-translate-y-5 duration-700">
