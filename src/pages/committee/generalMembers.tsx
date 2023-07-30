@@ -11,7 +11,7 @@ import { useEffect, useState } from "react";
 
 
 
-const generalMembers = () => {
+const GeneralMembers = () => {
     const [newMember, setNewMember] = useState('');
 
     useEffect(() => {
@@ -87,4 +87,4 @@ const generalMembers = () => {
     )
 }
 
-export default generalMembers;
+export default GeneralMembers;
