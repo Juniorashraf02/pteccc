@@ -138,34 +138,34 @@ export const NavigationBar = () => {
                       aria-orientation="vertical"
                       aria-labelledby="options-menu"
                     >
-                      <a
+                    <Link
                         href="#"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
                         2021
-                      </a>
-                      <a
+                    </Link>
+                      <Link
                         href="#"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
                         2022
-                      </a>
-                      <a
+                     </Link>
+                     <Link
                         href="#"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
                         2023
-                      </a>
-                      <a
+                    </Link>
+                     <Link
                         href="#"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
                         2024
-                      </a>
+                </Link>
                     </div>
                   </div>
                 )}
@@ -263,35 +263,35 @@ export const NavigationBar = () => {
                       aria-orientation="vertical"
                       aria-labelledby="options-menu"
                     >
-                      <a
+                     <Link
                         href="#"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
                         DevTeam
-                      </a>
-                      <a
+                     </Link>
+                     <Link
                         href="#"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
                         Designer Team 
-                      </a>
+                    </Link>
                       
-                      <a
+                      <Link
                         href="#"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
                         Honor Board
-                      </a>
-                      <a
+                     </Link>
+                      <Link
                         href="/alumni"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
                         Alumni
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 )}
