@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
+import Link from 'next/link'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -28,7 +29,7 @@ export default function Home() {
     </div>
 
     <div className="mb-12 pb-16 md:pb-0 grid text-center lg:mb-0 lg:grid-cols-1">
-      <a
+      <Link
         href="/aboutus"
         className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
         // target="_blank"
@@ -43,7 +44,7 @@ export default function Home() {
         <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
           Find in-depth information about PTEC Career Club.
         </p>
-      </a>
+      </Link>
 
       {/* <a
         href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template-tw&utm_campaign=create-next-app"
