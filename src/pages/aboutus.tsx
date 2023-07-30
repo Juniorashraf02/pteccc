@@ -102,9 +102,9 @@ const aboutus = () => {
                 and where students of Pabna Textile Engineering College get the
                 opportunity to gather knowledge and experiences from the
                 countries' most expert professionals. Recently in the past 2/3
-                years Ptec Career Club arranges seminars on "Basic Introduction
-                of Industrial Engineering", "Denim and Washing", "Apparel
-                Merchandising", "Seminar on DAAD Scholarship" and so on.
+                years Ptec Career Club arranges seminars on &quot;Basic Introduction
+                of Industrial Engineering&quot;, &quot;Denim and Washing&quot;, &quot;Apparel
+                Merchandising&quot;, &quot;Seminar on DAAD Scholarship&quot; and so on.
               </p>
             </div>
             <div className="md:w-full px-4">
@@ -117,7 +117,7 @@ const aboutus = () => {
                 seminars, workshops, and competitions, PTECCC prepares students
                 for job opportunities and business challenges. It keeps them
                 updated with the latest job circulars and organizes a successful
-                'Career Fair' where HR representatives from prominent companies
+                &quot;Career Fair&quot; where HR representatives from prominent companies
                 recruit talented individuals. PTECCC bridges the gap between
                 campus life and the professional world, providing valuable
                 resources and networking opportunities for students at PTEC.
