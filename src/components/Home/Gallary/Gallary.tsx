@@ -39,7 +39,7 @@ export const Gallary = () => {
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:-translate-y-5 duration-700"
-                            src="/photos/home/gallary/26.jpg" />
+                            src="/photos/home/gallary/28.jpg" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:-translate-y-5 duration-700"
