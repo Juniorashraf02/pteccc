@@ -15,19 +15,19 @@ export const Gallary = () => {
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(70).webp" />
+                            src="/photos/home/gallary/02.JPG" />
                     </div>
                     <div className="w-1/2 p-1 md:p-2 hover:-translate-y-5 duration-700">
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(72).webp" />
+                            src="/photos/home/gallary/03.JPG" />
                     </div>
                     <div className="w-full p-1 md:p-2 hover:translate-y-5 duration-700">
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(73).webp" />
+                            src="/photos/home/gallary/20.JPG" />
                     </div>
                 </div>
                 <div className="flex w-1/2 flex-wrap duration-700">
@@ -35,35 +35,35 @@ export const Gallary = () => {
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center row-span-2 hover:-translate-y-5 duration-700"
-                            src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp" />
+                            src="/photos/home/gallary/04.JPG" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:-translate-y-5 duration-700"
-                            src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp" />
+                            src="/photos/home/gallary/06.JPG" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:-translate-y-5 duration-700"
-                            src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp" />
+                            src="/photos/home/gallary/08.JPG" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:grayscale duration-700"
-                            src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp" />
+                            src="/photos/home/gallary/18.JPG" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:translate-x-5 duration-700"
-                            src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(74).webp" />
+                            src="/photos/home/gallary/07.JPG" />
                     </div>
                     <div className="w-1/2 p-1 md:p-2 hover:translate-y-5 duration-700">
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(75).webp" />
+                            src="/photos/home/gallary/21.JPG" />
                     </div>
                     <div className="w-1/2 p-1 md:p-2 hover:translate-y-5 duration-700">
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="https://tecdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(77).webp" />
+                            src="/photos/home/gallary/19.JPG" />
                     </div>
                 </div>
             </div>
