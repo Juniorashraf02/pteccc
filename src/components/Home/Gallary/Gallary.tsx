@@ -15,19 +15,19 @@ export const Gallary = () => {
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="/photos/home/gallary/02.JPG" />
+                            src="/photos/home/gallary/02.jpg" />
                     </div>
                     <div className="w-1/2 p-1 md:p-2 hover:-translate-y-5 duration-700">
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="/photos/home/gallary/03.JPG" />
+                            src="/photos/home/gallary/03.jpg" />
                     </div>
                     <div className="w-full p-1 md:p-2 hover:translate-y-5 duration-700">
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="/photos/home/gallary/20.JPG" />
+                            src="public/photos/home/gallary/20.jpg" />
                     </div>
                 </div>
                 <div className="flex w-1/2 flex-wrap duration-700">
@@ -35,35 +35,35 @@ export const Gallary = () => {
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center row-span-2 hover:-translate-y-5 duration-700"
-                            src="/photos/home/gallary/04.JPG" />
+                            src="/photos/home/gallary/04.jpg" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:-translate-y-5 duration-700"
-                            src="/photos/home/gallary/06.JPG" />
+                            src="/photos/home/gallary/06.jpg" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:-translate-y-5 duration-700"
-                            src="/photos/home/gallary/08.JPG" />
+                            src="/photos/home/gallary/08.jpg" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:grayscale duration-700"
-                            src="/photos/home/gallary/18.JPG" />
+                            src="/photos/home/gallary/18.jpg" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:translate-x-5 duration-700"
-                            src="/photos/home/gallary/07.JPG" />
+                            src="/photos/home/gallary/07.jpg" />
                     </div>
                     <div className="w-1/2 p-1 md:p-2 hover:translate-y-5 duration-700">
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="/photos/home/gallary/21.JPG" />
+                            src="/photos/home/gallary/21.jpg" />
                     </div>
                     <div className="w-1/2 p-1 md:p-2 hover:translate-y-5 duration-700">
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="/photos/home/gallary/19.JPG" />
+                            src="/photos/home/gallary/19.jpg" />
                     </div>
                 </div>
             </div>
