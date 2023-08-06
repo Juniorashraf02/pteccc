@@ -27,7 +27,7 @@ export const Gallary = () => {
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="public/photos/home/gallary/20.jpg" />
+                            src="/photos/home/gallary/20.jpg" />
                     </div>
                 </div>
                 <div className="flex w-1/2 flex-wrap duration-700">
