@@ -298,6 +298,11 @@ export const NavigationBar = () => {
               </div>
 
               <li className="py-2 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-white hover:border-amber-400 duration-500 ease-in">
+                <Link href="/studyMaterial">
+                  <p>Study Materials</p>
+                </Link>
+              </li>
+              <li className="py-2 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-white hover:border-amber-400 duration-500 ease-in">
                 <Link href="/contact">
                   <p>Contact Us</p>
                 </Link>

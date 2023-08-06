@@ -15,13 +15,13 @@ export const Gallary = () => {
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="/photos/home/gallary/02.jpg" />
+                            src="/photos/home/gallary/24.jpg" />
                     </div>
                     <div className="w-1/2 p-1 md:p-2 hover:-translate-y-5 duration-700">
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center"
-                            src="/photos/home/gallary/03.jpg" />
+                            src="/photos/home/gallary/25.jpg" />
                     </div>
                     <div className="w-full p-1 md:p-2 hover:translate-y-5 duration-700">
                         <img
@@ -35,11 +35,11 @@ export const Gallary = () => {
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center row-span-2 hover:-translate-y-5 duration-700"
-                            src="/photos/home/gallary/04.jpg" />
+                            src="/photos/home/gallary/27.jpg" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:-translate-y-5 duration-700"
-                            src="/photos/home/gallary/06.jpg" />
+                            src="/photos/home/gallary/26.jpg" />
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:-translate-y-5 duration-700"
