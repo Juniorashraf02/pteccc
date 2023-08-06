@@ -93,12 +93,12 @@ export const NavigationBar = () => {
             }`}
           >
             <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0 gap-3">
-              <li className="py-2 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-white hover:border-amber-400 duration-500 ease-in">
+              <li className="py-2 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-slate-800 hover:border-amber-400 duration-500 ease-in">
                 <Link href="/aboutus">
                   <p>About Us</p>
                 </Link>
               </li>
-              <li className="py-2 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-white hover:border-amber-400 duration-500 ease-in">
+              <li className="py-2 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-slate-800 hover:border-amber-400 duration-500 ease-in">
                 <Link href="/home">
                   <p>Home</p>
                 </Link>
@@ -111,7 +111,7 @@ export const NavigationBar = () => {
               >
                 <button
                   type="button"
-                  className="inline-flex items-center px-4 py-2  font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-white hover:border-amber-400 duration-500 ease-in"
+                  className="inline-flex items-center px-4 py-2  font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-slate-800 hover:border-amber-400 duration-500 ease-in"
                   onClick={eventDropDown}
                 >
                   Events
@@ -143,29 +143,9 @@ export const NavigationBar = () => {
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
-                        2021
+                        coming soon
                     </Link>
-                      <Link
-                        href="#"
-                        className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
-                        role="menuitem"
-                      >
-                        2022
-                     </Link>
-                     <Link
-                        href="#"
-                        className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
-                        role="menuitem"
-                      >
-                        2023
-                    </Link>
-                     <Link
-                        href="#"
-                        className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
-                        role="menuitem"
-                      >
-                        2024
-                </Link>
+                      
                     </div>
                   </div>
                 )}
@@ -177,7 +157,7 @@ export const NavigationBar = () => {
               >
                 <button
                   type="button"
-                  className="inline-flex items-center px-4 py-2  font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-white hover:border-amber-400 duration-500 ease-in"
+                  className="inline-flex items-center px-4 py-2  font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-slate-800 hover:border-amber-400 duration-500 ease-in"
                   onClick={committeDropDown}
                 >
                   Committee
@@ -223,7 +203,7 @@ export const NavigationBar = () => {
                 )}
               </div>
 
-              <li className="py-2  text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-white hover:border-amber-400 duration-500 ease-in">
+              <li className="py-2  text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-slate-800 hover:border-amber-400 duration-500 ease-in">
                 <Link href="/blogs">
                   <p>Blogs</p>
                 </Link>
@@ -236,7 +216,7 @@ export const NavigationBar = () => {
               >
                 <button
                   type="button"
-                  className="inline-flex items-center px-4 py-2  font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-white hover:border-amber-400 duration-500 ease-in"
+                  className="inline-flex items-center px-4 py-2  font-medium text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-slate-800 hover:border-amber-400 duration-500 ease-in"
                   onClick={teamDropdown}
                 >
                   Teams
@@ -264,7 +244,7 @@ export const NavigationBar = () => {
                       aria-labelledby="options-menu"
                     >
                      <Link
-                        href="#"
+                        href="devTeam"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
@@ -297,12 +277,12 @@ export const NavigationBar = () => {
                 )}
               </div>
 
-              <li className="py-2 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-white hover:border-amber-400 duration-500 ease-in">
+              <li className="py-2 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-slate-800 hover:border-amber-400 duration-500 ease-in">
                 <Link href="/studyMaterial">
                   <p>Study Materials</p>
                 </Link>
               </li>
-              <li className="py-2 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-white hover:border-amber-400 duration-500 ease-in">
+              <li className="py-2 text-white hover:text-amber-400 border-b-2 dark:border-slate-800 border-slate-800 hover:border-amber-400 duration-500 ease-in">
                 <Link href="/contact">
                   <p>Contact Us</p>
                 </Link>
