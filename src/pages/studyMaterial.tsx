@@ -72,7 +72,7 @@ const studyMaterial = () => {
                         <a href="https://www.linkedin.com/in/mohammad-shohag/">
                             <FaLinkedin className='text-slate-800 text-xl' />
                         </a>
-                        <a href="mailto:careerclubptec@gmail.com">
+                        <a href="mailto:mdshohag8700@gmail.com">
                             <SiGmail className='text-slate-800 text-xl' />
                         </a>
                         </div>
