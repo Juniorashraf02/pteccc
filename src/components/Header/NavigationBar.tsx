@@ -244,14 +244,14 @@ export const NavigationBar = () => {
                       aria-labelledby="options-menu"
                     >
                      <Link
-                        href="devTeam"
+                        href="/devTeam"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
                         DevTeam
                      </Link>
                      <Link
-                        href="#"
+                        href="/designerTeam"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
