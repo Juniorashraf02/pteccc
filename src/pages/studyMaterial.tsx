@@ -67,7 +67,7 @@ const studyMaterial = () => {
                         <p>Mohammad Shohag</p>
                         <p> Wet Department</p>
 
-                        <p>Ptec'13</p>
+                        <p>Ptec&apos;13</p>
                         <div className="flex gap-5 mt-5">
                         <a href="https://www.linkedin.com/in/mohammad-shohag/">
                             <FaLinkedin className='text-slate-800 text-xl' />
