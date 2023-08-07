@@ -7,7 +7,8 @@ import { SiGmail } from "react-icons/si";
 
 const Footer = () => {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 bg-slate-800 px-2 md:px-0 py-5 text-white">
+    <div>
+      <div className="grid grid-cols-1 md:grid-cols-3 bg-slate-800 px-2 md:px-0 py-5 text-white">
       <div className="md:mx-auto mb-5 md:mb-0">
         <h1 className="text-3xl font-bold mb-2">Address</h1>
         <div>
@@ -63,6 +64,16 @@ const Footer = () => {
             </Link>
           </li>
         </ul>
+      </div>
+    </div>
+      <div className="bg-white text-gray-800 font-semibold text-center">
+        <p>&copy; All rights reserved by | PTECCC | Developed by <span></span>
+          <Link
+          href="/devTeam"
+          className="text-blue-600">
+          ISTIAK&apos;13(PTEC DevTEAM) 
+          </Link>
+        </p>
       </div>
     </div>
   );
