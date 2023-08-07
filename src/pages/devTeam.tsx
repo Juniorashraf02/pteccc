@@ -31,6 +31,7 @@ export const devTeam = () => {
                </div>
 
                 <div className="px-6 py-4 text-slate-800">
+                <p className="font-bold text-2xl  text-center text-gray-600 mt-5">Istiak</p>
                     <div className="font-semibold text-xs text-gray-400 text-xl mb-2 text-center mt-5">Programmer || Graphic Designer || Artist</div>
                     <div className="flex justify-around items-center mb-4 mt-5">
 
