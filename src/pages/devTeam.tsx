@@ -17,7 +17,7 @@ export const devTeam = () => {
         <NavigationBar />
         </div>
 
-            <p className="md:text-3xl text-2xl font-bold text-center text-rose-00 py-10">PTEC DevTEAM</p>
+            <p className="md:text-3xl text-2xl font-bold text-center text-rose-400 py-10">PTEC DevTEAM</p>
 
             <div className="max-w-sm rounded overflow-hidden shadow-lg mx-auto bg-gray-100 py-10">
                <div className="pt-5">
