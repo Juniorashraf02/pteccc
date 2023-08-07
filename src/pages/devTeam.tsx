@@ -28,47 +28,7 @@ export const devTeam = () => {
                 />
                </div>
 
-                <div className="px-6 py-4 text-slate-800">
-                    <div className="font-semibold text-xs text-gray-400 text-xl mb-2 text-center mt-5">Programmer || Graphic Designer || Artist</div>
-                    <div className="flex justify-around items-center mb-4 mt-5">
-
-
-                        <Link
-                            href="https://www.linkedin.com/in/istiakashraf/"
-                            className="text-2xl text-rose-400"
-                        >
-                            <AiFillLinkedin />
-                        </Link>
-                        <Link
-                            href="mailto:shuvo.istiak11@gmail.com"
-                            className="text-2xl text-rose-400"
-                        >
-                            <MdOutgoingMail />
-                        </Link>
-                        <Link
-                            href="https://wa.me/+8801612016614"
-                            className="text-2xl text-rose-400"
-                        >
-                            <AiOutlineWhatsApp />
-                        </Link>
-                        <Link
-                            href="https://www.instagram.com/twilightmelody/"
-                            className="text-2xl text-rose-400"
-                        >
-                            <AiFillInstagram />
-                        </Link>
-
-                    </div>
-
-                    <div>
-                        <Link
-                            href="https://portfolio-of-istiak.netlify.app/"
-                            className="text-2xl text-sky-400 text-center"
-                        >
-                            <p className="font-bold">Istiak&apos;s portfolio</p>
-                        </Link>
-                    </div>
-                </div>
+                
             </div>
 
         </div>
