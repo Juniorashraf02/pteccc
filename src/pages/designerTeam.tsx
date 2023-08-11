@@ -62,17 +62,17 @@ const designerTeam = () => {
       </div>
       <div className='md:w-1/6 p-2 bg-blue-100 py-5'>
         <img className='shadow-md border rounded-xl' src="https://i.imgur.com/VWf4sw7.jpeg" alt="" />
-        <p className="font-bold text-2xl  text-center text-gray-600 mt-5">Hridoy</p>
+        <p className="font-bold text-2xl  text-center text-gray-600 mt-5">MD. Abdullah Bin Nahid Redoy</p>
         <p className="font-semibold text-xs text-center text-gray-600 mt-5">Graphic Designer</p>
         <div className="flex justify-around items-center mb-4 mt-5">
           <Link
-            href=""
+            href="https://bd.linkedin.com/in/mdabdullah-bin-nahid-redoy-9ba98a253"
             className="text-2xl text-gray-800"
           >
             <AiFillLinkedin />
           </Link>
           <Link
-            href="mailto:"
+            href="mailto:redoyabdullahbinnahid@gmail.com"
             className="text-2xl text-gray-800"
           >
             <MdOutgoingMail />
