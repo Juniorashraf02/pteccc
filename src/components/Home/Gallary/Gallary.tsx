@@ -51,7 +51,7 @@ export const Gallary = () => {
                         <img
                             alt="gallery"
                             className="block h-full w-full rounded-lg object-cover object-center hover:translate-x-5 duration-700"
-                            src="/photos/home/gallary/29.jpg" />
+                            src="/photos/home/gallary/35.png" />
                     </div>
                     <div className="w-1/2 p-1 md:p-2 hover:translate-y-5 duration-700">
                         <img
