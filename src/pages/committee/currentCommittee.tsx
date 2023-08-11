@@ -25,7 +25,7 @@ const currentCommittee = () => {
                     />
                 </div>
 
-                <p className='text-xl font-bold text-slate-800 border-b-4 border-slate-800 w-max mx-auto my-6'>Vice-President</p>
+                <p className='text-xl font-bold text-slate-800 border-b-4 border-slate-800 w-max mx-auto my-6'>Vice-Presidents</p>
 
                 <div className="md:grid md:grid-cols-3 grid-cols-2 gap-5 py-5 md:px-8 px-2">
                     <Cards
@@ -89,7 +89,7 @@ const currentCommittee = () => {
 
                 </div>
 
-                <p className='text-xl font-bold text-slate-800 border-b-4 border-slate-800 w-max mx-auto my-6'>Genetal Secretary</p>
+                <p className='text-xl font-bold text-slate-800 border-b-4 border-slate-800 w-max mx-auto my-6'>General & Joint Secretary</p>
 
                 <div className="grid-cols-1 md:w-1/3 w-full px-3 md:px-0 mx-auto">
                     <Cards
@@ -102,7 +102,7 @@ const currentCommittee = () => {
                         designation='General Secretary'
                     />
                 </div>
-                <div className='grid md:grid-cols-2 grid-cols-1 md:w-2/3 gap-5 mx-auto'>
+                <div className='grid md:grid-cols-2 grid-cols-1 md:w-2/3 gap-5 mx-auto px-3'>
                     <Cards
                         name="Emtehan Emon"
                         title='Artist'
@@ -124,7 +124,7 @@ const currentCommittee = () => {
                 </div>
 
                 <p className='text-xl font-bold text-slate-800 border-b-4 border-slate-800 w-max mx-auto my-6'>Organising Secretary</p>
-                <div className="grid md:grid-cols-2 grid-cols-1 md:w-2/3 gap-5 mx-auto">
+                <div className="grid md:grid-cols-2 grid-cols-1 md:w-2/3 gap-5 mx-auto px-3">
                     <Cards
                         name="A K Abdulla Shadin"
                         // title='Musician'
@@ -145,7 +145,7 @@ const currentCommittee = () => {
                     />
                 </div>
                 <p className='text-xl font-bold text-slate-800 border-b-4 border-slate-800 w-max mx-auto my-6'>Office Secretary</p>
-                <div className="grid md:grid-cols-2 grid-cols-1 md:w-2/3 gap-5 mx-auto">
+                <div className="grid md:grid-cols-2 grid-cols-1 md:w-2/3 gap-5 mx-auto px-3">
                     <Cards
                         name="Fazle Rabbi"
                         // title='Musician'
