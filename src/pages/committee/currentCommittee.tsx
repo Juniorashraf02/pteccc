@@ -80,7 +80,7 @@ const currentCommittee = () => {
                     <Cards
                         name="Md Tamim "
                         // title=''
-                        mailLink="tamim1085@gmail.com"
+                        mailLink="tamim.ptec@gmail.com"
                         linkedInlink="https://www.linkedin.com/in/md-tamim-039153190"
                         className='hover:bg-red-50 border-lime-400'
                         className2='bg-amber-400'
