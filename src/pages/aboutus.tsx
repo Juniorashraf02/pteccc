@@ -20,8 +20,8 @@ const aboutus = () => {
             </p>
           </div>
         </div>
-        <div className="md:flex justify-around bg-white py-8 px-4 text-slate-800 text-justify font-thin w-full">
-          <div className="md:w-5/12 px-4">
+        <div className="md:flex justify-around bg-white py-8 md:px-4 pr-1 text-slate-800 text-justify font-thin w-full">
+          <div className="md:w-5/12 md:px-4">
             <h1 className="text-4xl font-semibold text-rose-400 text-left border-w-1/2 my-8">
               About PTECCC
             </h1>
@@ -37,7 +37,7 @@ const aboutus = () => {
               aptitude and nurture it.
             </p>
           </div>
-          <div className="md:w-5/12 px-4 ">
+          <div className="md:w-5/12 md:px-4 pr-1">
             <h1 className="text-4xl font-semibold text-lime-400 text-left border-w-1/2 my-8">
               History
             </h1>
@@ -59,9 +59,9 @@ const aboutus = () => {
             What we focus on
           </h1>
 
-          <div className="my-10 grid grid-cols-1 md:grid-cols-2 text-slate-800 text-justify font-thin w-full gap-5 px-2 md:px-8">
-            <div className="md:w-10/12 px-4">
-              <h1 className="text-xl md:text-4xl font-semibold text-blue-400 text-left border-w-1/2 my-8">
+          <div className="my-10 grid grid-cols-1 md:grid-cols-2 text-slate-800 text-justify font-thin w-full gap-5 md:px-2 md:px-8">
+            <div className="md:w-10/12 md:px-4 pr-1">
+              <h1 className="text-4xl md:text-4xl font-semibold text-blue-400 text-left border-w-1/2 my-8">
                 Skill development programs
               </h1>
               <p className="border-l-4 border-blue-400 pl-5">
@@ -74,7 +74,7 @@ const aboutus = () => {
                 member of this club.
               </p>
             </div>
-            <div className="md:w-full px-4">
+            <div className="md:w-full m:px-4 pr-1">
               <h1 className="text-4xl font-semibold text-purple-400 text-left border-w-1/2 my-8">
                 Workshop
               </h1>
@@ -92,7 +92,7 @@ const aboutus = () => {
                 merchandising.
               </p>
             </div>
-            <div className="md:w-10/12 px-4">
+            <div className="md:w-10/12 md:px-4 pr-1">
               <h1 className="text-4xl font-semibold text-yellow-400 text-left border-w-1/2 my-8">
                 Seminar
               </h1>
@@ -107,7 +107,7 @@ const aboutus = () => {
                 Merchandising&quot;, &quot;Seminar on DAAD Scholarship&quot; and so on.
               </p>
             </div>
-            <div className="md:w-full px-4">
+            <div className="md:w-full md:px-4 pr-1">
               <h1 className="text-4xl font-semibold text-orange-400 text-left border-w-1/2 my-8">
                 Career development
               </h1>
@@ -127,10 +127,10 @@ const aboutus = () => {
         </div>
 
         <div className="bg-gray-50 px-0 md:px-16 py-5">
-          <h1 className="text-xl md:text-4xl font-semibold text-rose-400">
+          <h1 className="text-4xl md:text-4xl font-semibold text-rose-400">
             Career Fair
           </h1>
-          <p className="text-gray-600 font-thin py-5 tracking-wide">
+          <p className="text-gray-600 font-thin py-5 tracking-wide border-l-4 border-rose-400 border-w-1/2 pl-5 my-5"> 
             The PTEC Career Club&apos;s signature event is the PTEC Career Fair/Job
             Fair. Since 2019, the PTEC Career Club has been organizing career
             fairs. The purpose of the Career Fair is to connect with HR
