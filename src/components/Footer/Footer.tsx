@@ -71,7 +71,7 @@ const Footer = () => {
           <Link
           href="/devTeam"
           className="text-blue-600">
-          ISTIAK&apos;13(PTEC DevTEAM) 
+          ISTIAK&apos;13 <span className="text-gray-400">(PTEC DevTEAM)</span> 
           </Link>
         </p>
       </div>
