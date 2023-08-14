@@ -26,6 +26,10 @@ const home = () => {
       <Gallary/>
     
       <Info />
+      <div className="bg-white">
+        <h2 className="font-bold md:text-3xl text-slate-800 text-center pt-5">Moderator, advisor, president and general secretary&apos;s word</h2>
+        <hr />
+      </div>
       <Carousel />
       <Footer />
     </div>

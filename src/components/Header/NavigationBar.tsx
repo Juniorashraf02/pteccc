@@ -259,7 +259,7 @@ export const NavigationBar = () => {
                     </Link>
                       
                       <Link
-                        href="#"
+                        href="/honorBoard"
                         className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 hover:bg-amber-500 rounded-md duration-500 ease-in"
                         role="menuitem"
                       >
